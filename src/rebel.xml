@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  This is the JRebel configuration file. It maps the running application to your IDE workspace, enabling JRebel reloading for this project.
+  Refer to https://manuals.zeroturnaround.com/jrebel/standalone/config.html for more information.
+-->
+<application generated-by="intellij" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.zeroturnaround.com" xsi:schemaLocation="http://www.zeroturnaround.com http://update.zeroturnaround.com/jrebel/rebel-2_1.xsd">
+
+	<classpath>
+		<dir name="G:/新建文件夹/Dubbo视频教程--高可用架构篇--第12节--使用Redis3.0集群实现Tomcat集群的Session共享/Dubbo视频教程--高可用架构篇--第12节--Tomcat集群--使用Redis3.0实现Session共享/TomcatRedisClusterEnabledSessionManager-master/out/production/TomcatRedisClusterEnabledSessionManager-master">
+		</dir>
+	</classpath>
+
+</application>
